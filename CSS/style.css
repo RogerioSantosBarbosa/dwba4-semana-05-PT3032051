@@ -1,0 +1,23 @@
+
+/*centralizado {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#conviteSejaRaro {
+  border-radius: 50%;
+}*/
+
+#legendaConvite {
+  width: 100%;
+  border: 1px dotted blue;
+  text-align: center;  
+}
+
+.sejaRaro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
