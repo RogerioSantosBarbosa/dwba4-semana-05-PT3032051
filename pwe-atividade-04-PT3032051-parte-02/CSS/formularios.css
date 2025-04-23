@@ -1,0 +1,40 @@
+.tabela {
+  padding: 5px 25px 10px 10px;
+  border-radius: 5px;
+  background-color: #e4e2e2;
+  margin-top: 20px;
+}
+
+.informacao {
+  width: 100%;
+  padding: 5px;
+  height: 25px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+.informacaoPequena {
+  padding: 5px;
+  height: 15px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+.botao {
+  width: 100%;
+  background-color: #4caf50;
+  border: none;
+  border-radius: 5px;
+  height: 30px;
+  color: white;
+  transition: 0.2s;
+}
+
+.botao:hover {
+  background-color: #419043;
+  cursor: pointer;
+}
+
+.sexo{
+  border-radius: 5px;
+}
